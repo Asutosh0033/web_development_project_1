@@ -1,4 +1,4 @@
-@media (min-width:1670px){
+@media screen and (min-width:1670px){
     #facility div{
         flex-wrap: nowrap;
         margin-left: 18%;
@@ -19,7 +19,7 @@
     height: 4px;
     margin: 4px 8px;
 }
-@media (max-width:870px){
+@media screen and (max-width:870px){
     .burger{
         display: block;
     }
@@ -99,7 +99,7 @@
     }
 }
 
-@media(max-width:358px){
+@media screen and (max-width:358px){
     #facility div img{
         width: 24%;
         margin: 5px;
